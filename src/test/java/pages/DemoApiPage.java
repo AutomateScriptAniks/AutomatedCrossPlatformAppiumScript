@@ -1,6 +1,5 @@
 package pages;
 
-import generics.GenericBaseClass;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileBy;
 import org.openqa.selenium.By;
@@ -8,9 +7,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class DemoApiPage extends GenericBaseClass {
+public class DemoApiPage extends PageBaseClass {
 
-    public DemoApiPage(AppiumDriver driver) {
+    public DemoApiPage(AppiumDriver<?> driver) {
         super(driver);
         PageFactory.initElements(driver,this);
     }
@@ -27,10 +26,7 @@ public class DemoApiPage extends GenericBaseClass {
     @FindBy(xpath="//android.widget.TextView[@text='Preference']")
     WebElement preferenceElementPF;
 
-    private WebElement findPreference()
-    {
-        return preferenceElementPF;
-    }
+    //private WebElement findPreference(){return preferenceElementPF;}
     private WebElement findPreferenceDependency()
     {
         return driver.findElement(preferenceDependenciesElement);
@@ -63,7 +59,7 @@ public class DemoApiPage extends GenericBaseClass {
 
     public void turnOnWifi()
     {
-        gestures.clickElement(findPreference());
+        gestures.clickElement(preferenceElementPF);
         gestures.clickElement(findPreferenceDependency());
         gestures.clickElement(findWifiCheckBox());
         gestures.clickElement(findWifiNameElement());

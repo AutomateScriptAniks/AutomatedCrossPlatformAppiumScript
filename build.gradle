@@ -10,9 +10,22 @@ repositories {
 }
 
 dependencies {
-    compile 'junit:junit:4.11'
     compile 'org.seleniumhq.selenium:selenium-java:3.4.0'
-    compile 'io.appium:java-client:4.1.2'
+    compile 'io.appium:java-client:5.0.0-BETA5'
     compile 'org.testng:testng:6.11'
-
 }
+
+task test(group: 'Verification', dependsOn: 'testAndroid', overwrite: true)
+
+task testAndroid(type: Test, group: 'Verification') {
+    useTestNG()
+
+    systemProperty "mobile.platform", "android"
+}
+
+task testIos(type: Test, group: 'Verification') {
+    useTestNG()
+
+    systemProperty "mobile.platform", "ios"
+}
+

@@ -4,14 +4,13 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.TouchAction;
 import org.openqa.selenium.WebElement;
 
-public class Gestures extends GenericBaseClass {
+public class Gestures {
 
     private final TouchAction action;
 
-    protected Gestures(AppiumDriver driver)
+    public Gestures(AppiumDriver<?> driver)
     {
-        super(driver);
-        action = new TouchAction(driver);
+        this.action = new TouchAction(driver);
     }
 
     public void clickElement(WebElement element)
