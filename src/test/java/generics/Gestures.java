@@ -2,13 +2,17 @@ package generics;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.TouchAction;
-import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.WebElement;
 
-public class Gestures {
+public class Gestures extends GenericBaseClass {
 
-    private AppiumDriver driver;
-    TouchAction action = new TouchAction(driver);
+    private final TouchAction action;
+
+    protected Gestures(AppiumDriver driver)
+    {
+        super(driver);
+        action = new TouchAction(driver);
+    }
 
     public void clickElement(WebElement element)
     {
