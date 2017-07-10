@@ -19,7 +19,7 @@ public abstract class TestBaseClass {
 
     @BeforeMethod
     public void setUp() throws MalformedURLException {
-        driver = new SetCapabilities(driver).setDesiredCapabilities(PropertyReader.readProperty("test.platform"));
+        driver = new SetCapabilities(driver).setDesiredCapabilities(System.getProperty("mobile.platform"));
         new Waits(driver).setUniversalImplicitWait((long) 10, SECONDS);
     }
 

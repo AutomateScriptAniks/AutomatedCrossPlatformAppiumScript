@@ -7,12 +7,12 @@ import pages.DemoApiPage;
 public class HappyPathJourney extends TestBaseClass {
 
 
-    @Test
+    @Test(enabled = false)
     public void verifyWifiFuntionality() {
         new DemoApiPage(driver).turnOnWifi();
     }
 
-    @Test
+    @Test(enabled = false)
     public void verifyScrollingTillEndofPageFunctionality() {
         new DemoApiPage(driver).scrollTillWebView();
     }
