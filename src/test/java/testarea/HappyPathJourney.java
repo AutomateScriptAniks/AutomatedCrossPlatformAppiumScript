@@ -15,7 +15,7 @@ public class HappyPathJourney extends TestBaseClass {
 
     @BeforeMethod
     public void setUp() throws MalformedURLException {
-        driver = new SetCapabilities(driver).setDesiredCapabilities(System.getenv("PLATFORM"));
+        driver = new SetCapabilities(driver).setDesiredCapabilities("android");
         new Waits(driver).setUniversalImplicitWait();
     }
 
