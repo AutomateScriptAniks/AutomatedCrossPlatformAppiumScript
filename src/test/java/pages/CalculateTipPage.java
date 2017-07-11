@@ -50,10 +50,12 @@ public class CalculateTipPage extends PageBaseClass {
         return totalAmountText.getText();
     }
 
-    public void calculateTip()
+    public CalculateTipPage calculateTip()
     {
         gestures.enterTextInElement(textBillAmountElement,"400");
         gestures.clickElement(calculateTripElement);
+
+        return new CalculateTipPage(driver);
     }
 
 

@@ -10,6 +10,7 @@ public abstract class PageBaseClass {
     protected AppiumDriver driver;
     protected final Gestures gestures;
 
+
     protected PageBaseClass(AppiumDriver<?> driver)
     {
         this.driver=driver;
