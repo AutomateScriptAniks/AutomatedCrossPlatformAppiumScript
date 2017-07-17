@@ -24,19 +24,24 @@ public class SetCapabilities extends PageBaseClass {
     public  AppiumDriver setDesiredCapabilities(String platform) throws MalformedURLException {
 
         String selectPlatform = platform.toLowerCase();
-        if (selectPlatform.equals("android")) {
-            cap.setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.ANDROID);
-            cap.setCapability(MobileCapabilityType.DEVICE_NAME, PropertyReader.readProperty("device.android.name"));
-            cap.setCapability(MobileCapabilityType.APP, new File(PropertyReader.readProperty("path.android.newapp")).getAbsolutePath());
+        if (selectPlatform.equals("android"))
+        {
+            getValuesForCapabilties(MobilePlatform.ANDROID
+                    ,PropertyReader.readProperty("device.android.name")
+                    ,PropertyReader.readProperty("path.android.newapp"));
+
             driver = new AndroidDriver(new URL(PropertyReader.readProperty("appium.url")), cap);
         }
 
         else if(selectPlatform.equals("ios"))
         {
-            cap.setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.IOS);
-            cap.setCapability(MobileCapabilityType.DEVICE_NAME,PropertyReader.readProperty("device.ios.name"));
-            cap.setCapability(MobileCapabilityType.APP, new File(PropertyReader.readProperty("path.ios.app")).getAbsolutePath());
-            cap.setCapability(MobileCapabilityType.AUTOMATION_NAME, AutomationName.IOS_XCUI_TEST);
+            getValuesForCapabilties(MobilePlatform.IOS
+                    ,PropertyReader.readProperty("device.ios.name")
+                    ,PropertyReader.readProperty("path.ios.app"));
+
+            cap.setCapability(MobileCapabilityType.AUTOMATION_NAME
+                                ,AutomationName.IOS_XCUI_TEST);
+
             driver = new IOSDriver(new URL(PropertyReader.readProperty("appium.url")), cap);
         }
         else
@@ -44,6 +49,13 @@ public class SetCapabilities extends PageBaseClass {
 
         }
     return driver;
+    }
+
+    private void getValuesForCapabilties(String platform,String deviceName,String appLocation)
+    {
+        cap.setCapability(MobileCapabilityType.PLATFORM_NAME, platform);
+        cap.setCapability(MobileCapabilityType.DEVICE_NAME, deviceName);
+        cap.setCapability(MobileCapabilityType.APP, new File(appLocation).getAbsolutePath());
     }
 
 

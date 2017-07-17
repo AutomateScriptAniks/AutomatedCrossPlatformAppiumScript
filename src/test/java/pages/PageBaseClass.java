@@ -17,5 +17,4 @@ public abstract class PageBaseClass {
         this.gestures= new Gestures(driver);
         this.cap = new DesiredCapabilities();
     }
-
 }

@@ -2,54 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511236d2-792a-46ec-98af-e7019d71f561" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testAndroid/classes/testarea.CalculateTipJourney.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testAndroid/classes/testarea.HappyPathJourney.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testAndroid/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testAndroid/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testAndroid/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testAndroid/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testAndroid/packages/testarea.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testIos/classes/testarea.CalculateTipJourney.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testIos/classes/testarea.HappyPathJourney.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testIos/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testIos/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testIos/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testIos/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/testIos/packages/testarea.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/testAndroid/TEST-testarea.CalculateTipJourney.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/testAndroid/TEST-testarea.HappyPathJourney.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/testAndroid/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/testAndroid/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/testIos/TEST-testarea.CalculateTipJourney.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/testIos/TEST-testarea.HappyPathJourney.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/testIos/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/testIos/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/testIos/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testAndroid/jar_extract_388059213233560260_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testAndroid/jar_extract_4059742507849556356_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testAndroid/jar_extract_5035516944964305034_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testAndroid/jar_extract_5578772041031172719_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testAndroid/jar_extract_6021385529636820999_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testAndroid/jar_extract_70833883829030447_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testAndroid/jar_extract_729682105552832465_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testIos/jar_extract_1509104817452439146_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testIos/jar_extract_2740011154984107553_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testIos/jar_extract_3165710008231497007_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testIos/jar_extract_528948257508959291_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testIos/jar_extract_6733552885474328198_tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testIos/jar_extract_8139627439666796946_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/testAndroid/jar_extract_6006274298378555105_tmp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/pages/CalculateTipPage.class" afterPath="$PROJECT_DIR$/build/classes/test/pages/CalculateTipPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/pages/PageBaseClass.class" afterPath="$PROJECT_DIR$/build/classes/test/pages/PageBaseClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/testarea/CalculateTipJourney.class" afterPath="$PROJECT_DIR$/build/classes/test/testarea/CalculateTipJourney.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/testarea/TestBaseClass.class" afterPath="$PROJECT_DIR$/build/classes/test/testarea/TestBaseClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/generics/SetCapabilities.class" afterPath="$PROJECT_DIR$/build/classes/test/generics/SetCapabilities.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/testAndroid/binary/results.bin" afterPath="$PROJECT_DIR$/build/test-results/testAndroid/binary/results.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/pages/CalculateTipPage.java" afterPath="$PROJECT_DIR$/src/test/java/pages/CalculateTipPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/testAndroid/classes/testarea.CalculateTipJourney.html" afterPath="$PROJECT_DIR$/build/reports/tests/testAndroid/classes/testarea.CalculateTipJourney.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/testAndroid/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/testAndroid/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/testAndroid/packages/testarea.html" afterPath="$PROJECT_DIR$/build/reports/tests/testAndroid/packages/testarea.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/testAndroid/TEST-testarea.CalculateTipJourney.xml" afterPath="$PROJECT_DIR$/build/test-results/testAndroid/TEST-testarea.CalculateTipJourney.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/generics/SetCapabilities.java" afterPath="$PROJECT_DIR$/src/test/java/generics/SetCapabilities.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/pages/PageBaseClass.java" afterPath="$PROJECT_DIR$/src/test/java/pages/PageBaseClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/testarea/TestBaseClass.java" afterPath="$PROJECT_DIR$/src/test/java/testarea/TestBaseClass.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -95,32 +61,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CalculateTipPage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/CalculateTipPage.java">
+      <file leaf-file-name="CalculateTipJourney.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testarea/CalculateTipJourney.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1251#1252#0" expanded="true" />
-                <element signature="e#1301#1302#0" expanded="true" />
-                <element signature="e#1341#1342#0" expanded="true" />
-                <element signature="e#1387#1388#0" expanded="true" />
-                <element signature="e#1429#1430#0" expanded="true" />
-                <element signature="e#1477#1478#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculateTipJourney.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testarea/CalculateTipJourney.java">
+      <file leaf-file-name="TestBaseClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testarea/TestBaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,22 +87,8 @@
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestBaseClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testarea/TestBaseClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -152,12 +96,9 @@
       <file leaf-file-name="SetCapabilities.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/generics/SetCapabilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
-              <folding>
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -184,12 +125,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="HappyPathJourney.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testarea/HappyPathJourney.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Waits.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/generics/Waits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding />
+              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#215#216#0" expanded="false" />
+                <element signature="e#244#245#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,10 +152,23 @@
       <file leaf-file-name="DemoApiPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/DemoApiPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="119">
               <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1391#1392#0" expanded="false" />
+                <element signature="e#1463#1464#0" expanded="false" />
+                <element signature="e#1511#1512#0" expanded="false" />
+                <element signature="e#1573#1574#0" expanded="false" />
+                <element signature="e#1624#1625#0" expanded="false" />
+                <element signature="e#1682#1683#0" expanded="false" />
+                <element signature="e#1729#1730#0" expanded="false" />
+                <element signature="e#1790#1791#0" expanded="false" />
+                <element signature="e#1832#1833#0" expanded="false" />
+                <element signature="e#1888#1889#0" expanded="false" />
+                <element signature="e#1929#1930#0" expanded="false" />
+                <element signature="e#1977#1978#0" expanded="false" />
+                <element signature="e#2038#2039#0" expanded="false" />
+                <element signature="e#2088#2089#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -210,7 +178,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/PageBaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -615,7 +583,6 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/GenericBaseClass.java" />
         <option value="$PROJECT_DIR$/config.properties" />
         <option value="$PROJECT_DIR$/src/test/java/generics/Gestures.java" />
-        <option value="$PROJECT_DIR$/src/test/java/generics/SetCapabilities.java" />
         <option value="$PROJECT_DIR$/src/test/java/generics/Waits.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/DemoApiPage.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
@@ -624,6 +591,7 @@
         <option value="$PROJECT_DIR$/src/test/java/testarea/CalculateTipJourney.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/CalculateTipPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/PageBaseClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/generics/SetCapabilities.java" />
       </list>
     </option>
   </component>
@@ -655,7 +623,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -684,10 +652,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -807,11 +771,15 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1457,7 +1425,8 @@
       <option name="presentableId" value="Default" />
       <updated>1499185017766</updated>
       <workItem from="1499185019340" duration="25430000" />
-      <workItem from="1499682970481" duration="18246000" />
+      <workItem from="1499682970481" duration="19842000" />
+      <workItem from="1500230891500" duration="1089000" />
     </task>
     <servers />
   </component>
@@ -1494,7 +1463,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43676000" />
+    <option name="totallyTimeSpent" value="46361000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1507,39 +1476,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39914772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2374798" sideWeight="0.4943182" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24071082" sideWeight="0.4943182" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24071082" sideWeight="0.5056818" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39914772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1567,6 +1536,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CalculateTipPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/PageBaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1579,7 +1556,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="e#607#608#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1595,7 +1574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1628,7 +1606,20 @@
         <state relative-caret-position="170">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1391#1392#0" expanded="false" />
+            <element signature="e#1463#1464#0" expanded="false" />
+            <element signature="e#1511#1512#0" expanded="false" />
+            <element signature="e#1573#1574#0" expanded="false" />
+            <element signature="e#1624#1625#0" expanded="false" />
+            <element signature="e#1682#1683#0" expanded="false" />
+            <element signature="e#1729#1730#0" expanded="false" />
+            <element signature="e#1790#1791#0" expanded="false" />
+            <element signature="e#1832#1833#0" expanded="false" />
+            <element signature="e#1888#1889#0" expanded="false" />
+            <element signature="e#1929#1930#0" expanded="false" />
+            <element signature="e#1977#1978#0" expanded="false" />
+            <element signature="e#2038#2039#0" expanded="false" />
+            <element signature="e#2088#2089#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1637,7 +1628,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#215#216#0" expanded="false" />
+            <element signature="e#244#245#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1649,45 +1644,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AbstractPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utils/DesiredCapabilitiesFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utils/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="41" column="41" lean-forward="false" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utils/Gestures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AbstractPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/DesiredCapabilitiesFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/DriverFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/Gestures.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/utils/PropertyReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1705,7 +1669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="68" column="32" lean-forward="false" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1713,7 +1676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1721,7 +1683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1729,44 +1690,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testarea/HappyPathJourney.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CalculateTipPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testarea/TestBaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testarea/CalculateTipJourney.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/PageBaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="765">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1774,16 +1704,43 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.properties">
+    <entry file="file://$PROJECT_DIR$/src/test/java/generics/Waits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#215#216#0" expanded="false" />
+            <element signature="e#244#245#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/DemoApiPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#1391#1392#0" expanded="false" />
+            <element signature="e#1463#1464#0" expanded="false" />
+            <element signature="e#1511#1512#0" expanded="false" />
+            <element signature="e#1573#1574#0" expanded="false" />
+            <element signature="e#1624#1625#0" expanded="false" />
+            <element signature="e#1682#1683#0" expanded="false" />
+            <element signature="e#1729#1730#0" expanded="false" />
+            <element signature="e#1790#1791#0" expanded="false" />
+            <element signature="e#1832#1833#0" expanded="false" />
+            <element signature="e#1888#1889#0" expanded="false" />
+            <element signature="e#1929#1930#0" expanded="false" />
+            <element signature="e#1977#1978#0" expanded="false" />
+            <element signature="e#2038#2039#0" expanded="false" />
+            <element signature="e#2088#2089#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1797,48 +1754,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/generics/SetCapabilities.java">
+    <entry file="file://$PROJECT_DIR$/config.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
-          <folding>
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/generics/Waits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/DemoApiPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/generics/SetCapabilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="306">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/PageBaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testarea/HappyPathJourney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testarea/CalculateTipJourney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CalculateTipPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testarea/TestBaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1251#1252#0" expanded="true" />
-            <element signature="e#1301#1302#0" expanded="true" />
-            <element signature="e#1341#1342#0" expanded="true" />
-            <element signature="e#1387#1388#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
-            <element signature="e#1477#1478#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
