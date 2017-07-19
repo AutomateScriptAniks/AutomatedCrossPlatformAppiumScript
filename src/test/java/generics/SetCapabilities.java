@@ -24,6 +24,7 @@ public class SetCapabilities extends PageBaseClass {
     public  AppiumDriver setDesiredCapabilities(String platform) throws MalformedURLException {
 
         String selectPlatform = platform.toLowerCase();
+
         if (selectPlatform.equals("android"))
         {
             getValuesForCapabilties(MobilePlatform.ANDROID
