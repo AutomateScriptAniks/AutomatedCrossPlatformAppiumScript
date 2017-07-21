@@ -27,7 +27,7 @@ public class SetCapabilities extends PageBaseClass {
 
         if (selectPlatform.equals("android"))
         {
-            getValuesForCapabilties(MobilePlatform.ANDROID
+            getValuesForGenericCapabilties(MobilePlatform.ANDROID
                     ,PropertyReader.readProperty("device.android.name")
                     ,PropertyReader.readProperty("path.android.newapp"));
 
@@ -36,12 +36,16 @@ public class SetCapabilities extends PageBaseClass {
 
         else if(selectPlatform.equals("ios"))
         {
-            getValuesForCapabilties(MobilePlatform.IOS
+            getValuesForGenericCapabilties(MobilePlatform.IOS
                     ,PropertyReader.readProperty("device.ios.name")
                     ,PropertyReader.readProperty("path.ios.app"));
 
+            cap.setCapability(MobileCapabilityType.PLATFORM_VERSION,"10.3");
             cap.setCapability(MobileCapabilityType.AUTOMATION_NAME
                                 ,AutomationName.IOS_XCUI_TEST);
+
+            //cap.setCapability(MobileCapabilityType.UDID,"196e776b70cd289b3ce6c2d3043e1e45d1ce7c83");
+            //cap.setCapability("bundleId","io.appium.WebDrivergentRunner");
 
             driver = new IOSDriver(new URL(PropertyReader.readProperty("appium.url")), cap);
         }
@@ -52,7 +56,7 @@ public class SetCapabilities extends PageBaseClass {
     return driver;
     }
 
-    private void getValuesForCapabilties(String platform,String deviceName,String appLocation)
+    private void getValuesForGenericCapabilties(String platform,String deviceName,String appLocation)
     {
         cap.setCapability(MobileCapabilityType.PLATFORM_NAME, platform);
         cap.setCapability(MobileCapabilityType.DEVICE_NAME, deviceName);

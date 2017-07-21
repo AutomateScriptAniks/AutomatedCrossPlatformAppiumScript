@@ -5,6 +5,8 @@ import generics.Waits;
 import io.appium.java_client.AppiumDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeMethod;
+import utils.PropertyReader;
+
 import java.net.MalformedURLException;
 
 import static java.util.concurrent.TimeUnit.SECONDS;
@@ -27,3 +29,6 @@ public abstract class TestBaseClass {
     }
 
 }
+
+
+//System.getProperty("mobile.platform")

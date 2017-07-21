@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testarea.CalculateTipJourney" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-07-17T13:43:32" hostname="Aniks-MacBook-Pro.local" time="6.504">
+<testsuite name="testarea.CalculateTipJourney" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-07-20T10:25:11" hostname="Aniks-MacBook-Pro.local" time="3.345">
   <properties/>
-  <testcase name="verifyTipIsAsExpected" classname="testarea.CalculateTipJourney" time="6.504"/>
+  <testcase name="verifyTipIsAsExpected" classname="testarea.CalculateTipJourney" time="3.345"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
